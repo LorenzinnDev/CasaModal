@@ -106,7 +106,7 @@ html,body{
     position: relative;
     z-index: 9999;
 }
-@media (min-width: 1024px){}
+@media (min-width: 500px){}
 nav.navbar.bootsnav.no-background {
     background-color: #00000053;
     border: none;
